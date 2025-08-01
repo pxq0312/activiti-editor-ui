@@ -1,6 +1,0 @@
-//TODO
-{
-  "baseUrl": "https://api.example.com",
-  "port": 443,
-  "timeout": 10000
-}
